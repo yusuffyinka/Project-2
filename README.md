@@ -15,4 +15,4 @@ From the Reports, It was Observed
 
 **-** That there was an 11.05% increase in Average Revenue per Users which have in reducing the loss on the Increased unsubscribed users
 
-**-** That Abeokuta had the highest percentage Unsubscribed users (77.91%) after the implementation of 5G and Abuja recorded a positive percent of unsubscibed users. this implies that the percentage unsubscribed users in Abuja was reduced by 12.63%
+**-** That Abeokuta had the highest percentage Unsubscribed users (77.91%) after the implementation of 5G and Abuja recorded a positive percent of unsubscribed users. this implies that the percentage unsubscribed users in Abuja was reduced by 12.63%
